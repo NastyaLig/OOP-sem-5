@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OOP_Three</string>
+    <string-array name="education">
+        <item>Высшее</item>
+        <item>Среднее</item>
+        <item>Среднее специальное</item>
+    </string-array>
+</resources>
